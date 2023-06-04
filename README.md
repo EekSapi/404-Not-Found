@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://main--iridescent-dango-a32fd3.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/EekSapi/404-Not-Found/tree/main">
       Solution
     </a>
     <span> | </span>
@@ -35,14 +35,14 @@
 
 ## Overview
 
-![screenshot]([404 Not Found.png](https://github.com/EekSapi/404-Not-Found/blob/main/404%20Not%20Found.png?raw=true))
+![screenshot](https://github.com/EekSapi/404-Not-Found/blob/91363135627c3b3b9e367b0439aed2a1747ddf3e/404%20Not%20Found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Checkout my demo project on <a href="https://main--iridescent-dango-a32fd3.netlify.app/">this link</a>
+- This is my first project in term making a responsive website
+- This improved my skill to be more concerned about user interface
+
 
 ### Built With
 
