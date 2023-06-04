@@ -119,7 +119,7 @@ img.desktop{
     color: #BDBDBD;
 }
 
-@media screen and (max-width : 400px){
+@media screen and (max-width: 400px){
     .desktop{
         display: none;
     }
