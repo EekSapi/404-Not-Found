@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](404 Not Found.png)
+![screenshot]([404 Not Found.png](https://github.com/EekSapi/404-Not-Found/blob/main/404%20Not%20Found.png?raw=true))
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
