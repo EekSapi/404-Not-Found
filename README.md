@@ -36,7 +36,7 @@
 ![screenshot](https://github.com/EekSapi/404-Not-Found/blob/91363135627c3b3b9e367b0439aed2a1747ddf3e/404%20Not%20Found.png)
 
 - Checkout my demo project on <a href="https://main--iridescent-dango-a32fd3.netlify.app/">this link</a>
-- This is my first project in term making a responsive website
+- This is my first project in term of making a responsive website
 - This improved my skill to be more concerned about user interface
 
 
@@ -52,5 +52,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@EekSapi](https://{https://github.com/EekSapi})
